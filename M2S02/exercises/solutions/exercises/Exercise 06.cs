@@ -3,25 +3,28 @@ namespace ConsoleExercise
     
     class Exercise06 : ExerciseBase
     {
-        String frase = " A linguagem de programação C# é muito poderosa";
+        String frase = "A linguagem de programação C# é muito poderosa";
+
         public override void execute()
         {
             Console.Clear();
-            Console.WriteLine("\"" + frase + "\" \n Diante dessa frase:");
+            Console.WriteLine("\n \t \"" + frase + "\" \n \t Diante dessa frase: ");
             List<string> palavras = frase.Split(' ').ToList();
             int tamanho = palavras.Count();
 
-            Console.WriteLine("\n\nDigite a posição da palavra que quer descobrir, por exemplo: \n" +
-            "Digitar 8 imprime: " + palavras[tamanho - 1] + "\n");
+            Console.WriteLine("\n\n \t Digite a posição da palavra que quer descobrir, por exemplo: \n" +
+            "\t Digitar 8 imprime: " + palavras[tamanho -1] + "\n");
 
+            Console.Write("\n \t Digite o número da palavra que deseja: ");
+            
             int.TryParse(Console.ReadLine(), out int position);
 
             if(position < 1 || position > tamanho) {
-                Console.WriteLine("Digite um número correto!");
+                Console.WriteLine("\t Digite um número correto, entre 1 e 8!");
                 Console.ReadKey();
                 this.execute();
             } else {
-                Console.WriteLine(palavras[position - 1]);
+                Console.WriteLine($"\t A palavra de número {position} é: {palavras[position - 1]} ");
             }
 
         }
