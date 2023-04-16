@@ -50,6 +50,3 @@ namespace ConsoleExercise
     }
 }
 
-/*
-Faça um programa que leia o nome e a idade do paciente e como resultado mostre o nome do paciente. E a mensagem se é menor ou maior de idade e se é idoso.
-*/ 
