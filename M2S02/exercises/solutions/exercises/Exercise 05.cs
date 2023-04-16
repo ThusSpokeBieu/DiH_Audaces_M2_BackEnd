@@ -5,7 +5,7 @@ namespace ConsoleExercise
     {
         private int[] numeros = new int[5];
 
-        private void setTodosNumeros() {
+        public void setTodosNumeros() {
             for (int i = 0; i < this.numeros.Length; i++)
                 {
                     Console.Write("\n \t Insira o {0}º número: ", i + 1);
@@ -34,6 +34,10 @@ namespace ConsoleExercise
             
             Console.WriteLine();
             Console.ReadKey();
+        }
+
+        public int[] getNumbers() {
+            return this.numeros;
         }
 
         public override void execute()
