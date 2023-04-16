@@ -1,7 +1,7 @@
 namespace ConsoleExercise
 {
     
-    class Exercise2 : ExerciseBase
+    class Exercise02 : ExerciseBase
     {
         private int number;
 

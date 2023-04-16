@@ -1,7 +1,7 @@
 namespace ConsoleExercise
 {
     
-    class Exercise8 : ExerciseBase
+    class Exercise08 : ExerciseBase
     {
         public override void execute()
         {

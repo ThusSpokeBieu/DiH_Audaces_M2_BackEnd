@@ -6,15 +6,15 @@ namespace ConsoleExercise
 
         public ExerciseMenu()
         {
-            exercises.Add(new Exercise1() { name = "[M2S02] Ex 1 ", description = "Soma de números" });
-            exercises.Add(new Exercise2() { name = "[M2S02] Ex 2 ", description = "Par ou ímpar" });
-            exercises.Add(new Exercise3() { name = "[M2S02] Ex 3 ", description = "Nome e Idade" });
-            exercises.Add(new Exercise4() { name = "[M2S02] Ex 4 ", description = "Informação de Veículos" });
-            exercises.Add(new Exercise5() { name = "[M2S02] Ex 5 ", description = "Ordenando Números" });
-            exercises.Add(new Exercise6() { name = "[M2S02] Ex 6 ", description = "Separando palavras" });
-            exercises.Add(new Exercise7() { name = "[M2S02] Ex 7 ", description = "Números pares" });
-            exercises.Add(new Exercise8() { name = "[M2S02] Ex 8 ", description = "O maior número da lista" });
-            exercises.Add(new Exercise9() { name = "[M2S02] Ex 9 ", description = "Média aritmética" });
+            exercises.Add(new Exercise01() { name = "[M2S02] Ex 01 ", description = "Soma de números" });
+            exercises.Add(new Exercise02() { name = "[M2S02] Ex 02 ", description = "Par ou ímpar" });
+            exercises.Add(new Exercise03() { name = "[M2S02] Ex 03 ", description = "Nome e Idade" });
+            exercises.Add(new Exercise04() { name = "[M2S02] Ex 04 ", description = "Informação de Veículos" });
+            exercises.Add(new Exercise05() { name = "[M2S02] Ex 05 ", description = "Ordenando Números" });
+            exercises.Add(new Exercise06() { name = "[M2S02] Ex 06 ", description = "Separando palavras" });
+            exercises.Add(new Exercise07() { name = "[M2S02] Ex 07 ", description = "Números pares" });
+            exercises.Add(new Exercise08() { name = "[M2S02] Ex 08 ", description = "O maior número da lista" });
+            exercises.Add(new Exercise09() { name = "[M2S02] Ex 09 ", description = "Média aritmética" });
             exercises.Add(new Exercise10() { name = "[M2S02] Ex 10 ", description = "Calculadora" });
         }
 

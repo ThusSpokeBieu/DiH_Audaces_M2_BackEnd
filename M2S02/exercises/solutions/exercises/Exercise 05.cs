@@ -1,7 +1,7 @@
 namespace ConsoleExercise
 {
     
-    class Exercise5 : ExerciseBase
+    class Exercise05 : ExerciseBase
     {
         List<int> numeros = new List<int>();
 

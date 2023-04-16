@@ -1,7 +1,7 @@
 namespace ConsoleExercise
 {
     
-    class Exercise6 : ExerciseBase
+    class Exercise06 : ExerciseBase
     {
         String frase = " A linguagem de programação C# é muito poderosa";
         public override void execute()

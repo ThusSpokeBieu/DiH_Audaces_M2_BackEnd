@@ -1,11 +1,11 @@
 namespace ConsoleExercise
 {
     
-    class Exercise4 : ExerciseBase
+    class Exercise07 : ExerciseBase
     {
         public override void execute()
         {
-            Console.WriteLine("Executando exercicio 4...");
+            Console.WriteLine("Executando exercicio 7...");
         }
     }
 }
