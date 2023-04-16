@@ -1,0 +1,15 @@
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/bin/Debug/net7.0/solutions
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/bin/Debug/net7.0/solutions.deps.json
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/bin/Debug/net7.0/solutions.runtimeconfig.json
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/bin/Debug/net7.0/solutions.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/bin/Debug/net7.0/solutions.pdb
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.csproj.AssemblyReference.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.GeneratedMSBuildEditorConfig.editorconfig
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.AssemblyInfoInputs.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.AssemblyInfo.cs
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.csproj.CoreCompileInputs.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/refint/solutions.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.pdb
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/solutions.genruntimeconfig.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/Debug/net7.0/ref/solutions.dll
