@@ -8,19 +8,22 @@ namespace ConsoleExercise
 
         public override void execute()
         {
+            Console.Clear();
+            Exercise08 exercise = new Exercise08();
+
             Console.WriteLine("\n \t Executando exercicio 8...");
 
             Console.WriteLine("\n \t Defina cinco números e o programa vai imprimir o maior.");
 
-            this.otherExercise.setTodosNumeros();
+            exercise.otherExercise.setTodosNumeros();
 
-            this.numbers = this.otherExercise.getNumbers();
+            exercise.numbers = exercise.otherExercise.getNumbers();
 
-            Array.Sort(this.numbers);
+            Array.Sort(exercise.numbers);
 
             Console.Write("\n \t O maior número é: ");
 
-            Console.Write(this.numbers[this.numbers.Count() -1]);
+            Console.Write(exercise.numbers[exercise.numbers.Count() -1]);
 
             Console.ReadKey();
         }

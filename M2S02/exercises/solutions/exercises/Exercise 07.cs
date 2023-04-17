@@ -3,7 +3,7 @@ namespace ConsoleExercise
     
     class Exercise07 : ExerciseBase
     {
-        private int number;
+        public int number;
         private List<int> evenNumbers = new List<int>();
 
         private void setNumber() {
@@ -35,18 +35,20 @@ namespace ConsoleExercise
         public override void execute()
         {
             Console.Clear();
+            Exercise07 exercise = new Exercise07();
+
             Console.WriteLine("\n \t Executando exercicio 7...");
             Console.WriteLine("\t Insira um número e exibiremos todos números pares até esse número.");
 
             Console.Write("\t Insira o número: ");
 
-            this.setNumber();
+            exercise.setNumber();
 
-            this.verifyEvenNumbers();
+            exercise.verifyEvenNumbers();
 
-            Console.Write($"\n \t Os números pares até o número {this.number} são: \n \t ");
+            Console.Write($"\n \t Os números pares até o número {exercise.number} são: \n \t ");
 
-            this.printNumbers();
+            exercise.printNumbers();
         }
     }
 

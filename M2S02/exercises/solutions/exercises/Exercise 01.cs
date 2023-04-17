@@ -2,9 +2,9 @@ namespace ConsoleExercise
 {
     class Exercise01 : ExerciseBase
     {
-        private int number1;
-        private int number2;
-        private int result;
+        public int number1;
+        public int number2;
+        public int result;
 
         private void setNumber1() {
             if (!int.TryParse(Console.ReadLine(), out this.number1)) {
@@ -26,24 +26,25 @@ namespace ConsoleExercise
         }
         public override void execute() {
             Console.Clear();
+            Exercise01 exercise = new Exercise01();
 
             Console.Write(
                 "\n \t Exercício 1 - Some dois números!" +
                 "\n \n \t Escolha o primeiro número: "
                 );
             
-            this.setNumber1();
+            exercise.setNumber1();
 
             Console.Write(
                 "\n \t Digite o segundo número: "
             );
 
-            this.setNumber2();
+            exercise.setNumber2();
 
             Console.Write(
                 "\n \t O resultado da soma: " + 
-                this.number1 + " + " + this.number2 +
-                " = " + this.setResult() + "\n \n \n"
+                exercise.number1 + " + " + exercise.number2 +
+                " = " + exercise.setResult() + "\n \n \n"
                 );
 
         }
