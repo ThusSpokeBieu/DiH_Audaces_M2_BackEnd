@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xCZ3RD0NpkidIVw/6RfqL0BwkIG9U8qNAuVqXXKNP2nytO624gqmTCF8f2KIxh7ySxMVDeS8niE/4VtTvIyrTw==",
+  "success": true,
+  "projectFilePath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/project2 - carros.csproj",
+  "expectedPackageFiles": [
+    "/home/gmess/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/gmess/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/gmess/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.4/microsoft.netcore.app.host.linux-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

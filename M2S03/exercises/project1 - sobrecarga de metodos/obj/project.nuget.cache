@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lTDNIEVxIaFlKbfzcjZbLOo9teyPWDw7Eq3HEKZf8malBiHE9ZBPLs5wrvC9mlu48CuAPwMfjaFo/AoxEsYq0w==",
+  "success": true,
+  "projectFilePath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project1 - sobrecarga de metodos/project1 - sobrecarga de metodos.csproj",
+  "expectedPackageFiles": [
+    "/home/gmess/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/gmess/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512",
+    "/home/gmess/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.4/microsoft.netcore.app.host.linux-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
