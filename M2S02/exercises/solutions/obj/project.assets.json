@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/gmess/.nuget/packages/": {}
+    "C:\\Users\\gmess\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/solutions.csproj",
+      "projectUniqueName": "C:\\Users\\gmess\\projects\\DevInHouse\\DiH_Audaces_M2_BackEnd\\M2S02\\exercises\\solutions\\solutions.csproj",
       "projectName": "solutions",
-      "projectPath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/solutions.csproj",
-      "packagesPath": "/home/gmess/.nuget/packages/",
-      "outputPath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S02/exercises/solutions/obj/",
+      "projectPath": "C:\\Users\\gmess\\projects\\DevInHouse\\DiH_Audaces_M2_BackEnd\\M2S02\\exercises\\solutions\\solutions.csproj",
+      "packagesPath": "C:\\Users\\gmess\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gmess\\projects\\DevInHouse\\DiH_Audaces_M2_BackEnd\\M2S02\\exercises\\solutions\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/gmess/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gmess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,26 +61,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.4, 7.0.4]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[7.0.4, 7.0.4]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.4, 7.0.4]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
