@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = project2___carros
+build_property.RootNamespace = carros
 build_property.ProjectDir = c:\Users\gmess\projects\DevInHouse\DiH_Audaces_M2_BackEnd\M2S03\exercises\project2 - carros\
