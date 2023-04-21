@@ -1,0 +1,18 @@
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/project2 - carros
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/project2 - carros.deps.json
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/project2 - carros.runtimeconfig.json
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/project2 - carros.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/project2 - carros.pdb
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.csproj.AssemblyReference.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.GeneratedMSBuildEditorConfig.editorconfig
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.AssemblyInfoInputs.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.AssemblyInfo.cs
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.csproj.CoreCompileInputs.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/refint/project2 - carros.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.pdb
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.genruntimeconfig.cache
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/ref/project2 - carros.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/obj/Debug/net7.0/project2 - carros.csproj.CopyComplete
+/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S03/exercises/project2 - carros/bin/Debug/net7.0/Spectre.Console.dll
