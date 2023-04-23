@@ -38,7 +38,7 @@ namespace carros.entities
             Owner = owner;    
         }
 
-        public bool ValidatePlate(string plate) {
+        public static bool ValidatePlate(string plate) {
             string pattern = @"^[A-Z]{3}-\d{4}$";
 
             if(!Regex.IsMatch(plate, pattern)) {

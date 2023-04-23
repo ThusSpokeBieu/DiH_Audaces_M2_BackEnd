@@ -8,9 +8,11 @@ namespace carros.console
         Table table = new Table();
         public CarTable(List<Car> carList) {
             table.Title("Carros Cadastrados");
+            int id = 1;
 
             table.HeavyBorder();
             table.Border(TableBorder.Rounded);
+            table.AddColumn(new TableColumn("[bold]ID[/]").Centered());
             table.AddColumn(new TableColumn("[bold]MARCA[/]").Centered());
             table.AddColumn(new TableColumn("[bold]MODELO[/]").Centered());
             table.AddColumn(new TableColumn("[bold]ANO[/]").Centered());
@@ -21,13 +23,14 @@ namespace carros.console
 
             carList.ForEach(car => {
                 table.AddRow(
+                    $"{id++}",
                     $"[green]{car.Brand}[/]", 
                     $"[blue]{car.Model}[/]",
                     $"[gray]{car.Year.ToString()}[/]",
-                    $"[red]{car.Plate}[/]",
-                    $"{car.Color}",
+                    $"[darkorange3]{car.Plate}[/]",
+                    $"[purple]{car.Color}[/]",
                     $"[teal]{car.Owner.Name}[/]",
-                    $"[purple4]{car.Owner.CPF}[/]");
+                    $"[gold1]{car.Owner.CPF}[/]");
             });
         }                
 

@@ -44,7 +44,7 @@ namespace carros.entities
             Gender = gender;
         }
 
-        private bool ValidateCPF(string cpf) {
+        public static bool ValidateCPF(string cpf) {
             string pattern = @"([0-9]{2}[\.]?[0-9]{3}[\.]?[0-9]{3}[\/]?[0-9]{4}[-]?[0-9]{2})|([0-9]{3}[\.]?[0-9]{3}[\.]?[0-9]{3}[-]?[0-9]{2})";
             if (!Regex.IsMatch(cpf, pattern))
             {
@@ -54,7 +54,7 @@ namespace carros.entities
             return true;
         }
 
-        private bool ValidatePhone(string phone) {
+        public static bool ValidatePhone(string phone) {
             string pattern = @"^\(\d{2}\)\s\d{4,5}-\d{4}$";
             if (!Regex.IsMatch(phone, pattern))
             {
@@ -64,7 +64,7 @@ namespace carros.entities
             return true;
         }
 
-        private bool ValidateBirthday(string birthday) {
+        public static bool ValidateBirthday(string birthday) {
             string pattern = @"^(?:(?:31(\/|-|\.)(?:0?[13578]|1[02]))\1|(?:(?:29|30)(\/|-|\.)(?:0?[13-9]|1[0-2])\2))(?:(?:1[6-9]|[2-9]\d)?\d{2})$|^(?:29(\/|-|\.)0?2\3(?:(?:(?:1[6-9]|[2-9]\d)?(?:0[48]|[2468][048]|[13579][26])|(?:(?:16|[2468][048]|[3579][26])00))))$|^(?:0?[1-9]|1\d|2[0-8])(\/|-|\.)(?:(?:0?[1-9])|(?:1[0-2]))\4(?:(?:1[6-9]|[2-9]\d)?\d{2})$";
             if (!Regex.IsMatch(birthday, pattern))
             {
@@ -74,7 +74,7 @@ namespace carros.entities
             return true;
         }
 
-        private bool ValidateGender(string gender) {
+        public static bool ValidateGender(string gender) {
 
             if (gender.ToUpper() == "MASCULINO") {
                 return true;
