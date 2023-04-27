@@ -19,24 +19,46 @@ namespace Exercise
             Exercises.Add(new Exercise10() { name = "M2S04 ~ Ex 10", description = "Criação de Classe Conta Bancária com Transações" });
         }
 
-        public void runExercise(int choice) {
+        public void RunExercise(int choice) {
             Exercises[choice].execute();
-            AfterExerciseRun();
+            AfterExerciseRun(choice);
         }
 
-        public void AfterExerciseRun() {
+        public void ReturnToMenu() {
+            if(AnsiConsole.Confirm("Retornar para o menu?")) {
+                Main.Run();
+            } else {
+                AnsiConsole.WriteLine("Até mais! :) ");
+            }
+        }
+
+        public void AfterExerciseRun(int choice) {
             var selectionList = new List<String>();
             selectionList.Add("Retornar ao Menu");
             selectionList.Add("Repetir exercício");
             selectionList.Add("Sair");
             
+            Console.ReadKey();
             var menuSelection = AnsiConsole.Prompt(
                 new SelectionPrompt<string>()
-                    .Title("Selecione uma opção: ")
+                    .Title("\nSelecione uma opção: ")
                     .MoreChoicesText("[grey]Use as setas para selecionar a opção[/]")
                     .AddChoices(selectionList.ToArray()));
             
             var selected = Array.IndexOf(selectionList.ToArray(), menuSelection);
+
+            switch (selected) 
+            {
+                case 0:
+                    ReturnToMenu();
+                    break;
+                case 1: 
+                    RunExercise(choice);
+                    break;
+                default:
+                    AnsiConsole.WriteLine("Até mais! :) ");
+                    break;
+            }
         }
 
         
