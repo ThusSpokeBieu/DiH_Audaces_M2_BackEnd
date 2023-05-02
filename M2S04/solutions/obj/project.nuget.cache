@@ -1,14 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1oHlDd3Wn7wGBoufv0MhtrlZy+o8tT2yMu4E0zjkZU7+KypiHb0p3mAMDn0Mc0XVxRK93S2I+HW2ybbaQCvxng==",
+  "dgSpecHash": "i9ZgOYZs7Bhc5Kwv+70vEHLPFGwQsrXS/K58ypMpXwBeBcM4AnqqzP9UPVrINzqdJF7+ZFnSH5QVewPXQvWKfg==",
   "success": true,
   "projectFilePath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S04/solutions/solutions.csproj",
   "expectedPackageFiles": [
     "/home/gmess/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
-    "/home/gmess/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
-    "/home/gmess/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.4/microsoft.aspnetcore.app.ref.7.0.4.nupkg.sha512",
-    "/home/gmess/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.4/microsoft.netcore.app.host.linux-x64.7.0.4.nupkg.sha512",
-    "/home/gmess/.nuget/packages/microsoft.netcore.app.ref/7.0.4/microsoft.netcore.app.ref.7.0.4.nupkg.sha512"
+    "/home/gmess/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
   ],
   "logs": []
 }
