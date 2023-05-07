@@ -6,7 +6,10 @@ namespace Exercise
     {
         public override void execute()
         {
-            AnsiConsole.WriteLine("Rodando exercício 4");
+            AnsiConsole.WriteLine("Exercicio 4 foi resolvido no Exercicio 3");
+            Console.ReadKey();
+            var exercise3 = new Exercise03();
+            exercise3.execute();
         }
     }
 
