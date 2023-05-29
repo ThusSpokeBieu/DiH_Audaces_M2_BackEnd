@@ -4,3 +4,6 @@
 [submodule "M2S06_UNIT_TESTS"]
 	path = M2S06_UNIT_TESTS
 	url = git@github.com:gmessiasc/M2S06_UNIT_TESTS.git
+[submodule "M2S09-FilmesApi"]
+	path = M2S09-FilmesApi
+	url = git@github.com:gmessiasc/M2S09-FilmesApi.git
