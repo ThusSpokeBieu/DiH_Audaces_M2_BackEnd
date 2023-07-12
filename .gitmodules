@@ -1,6 +1,6 @@
 [submodule "M2S05_FULL_STACK_BANK"]
 	path = M2S05_FULL_STACK_BANK
-	url = https://github.com/gmessiasc/M2S05_FULL_STACK_BANK/
+	url = git@github.com:gmessiasc/M2S05_FULL_STACK_BANK.git
 [submodule "M2S06_UNIT_TESTS"]
 	path = M2S06_UNIT_TESTS
 	url = git@github.com:gmessiasc/M2S06_UNIT_TESTS.git
