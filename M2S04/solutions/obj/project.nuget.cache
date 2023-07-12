@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "i9ZgOYZs7Bhc5Kwv+70vEHLPFGwQsrXS/K58ypMpXwBeBcM4AnqqzP9UPVrINzqdJF7+ZFnSH5QVewPXQvWKfg==",
+  "dgSpecHash": "XQ33VEduCFWaJuZ81QR0FHiPPIizPkjz4rVFUIyVa5mjFfoxtsVBDxCQCHWVnNMFfGlBjrn5Bl1VBDRf0NFOrg==",
   "success": true,
-  "projectFilePath": "/home/gmess/projects/DEVinHouse/DiH_Audaces_M2_BackEnd/M2S04/solutions/solutions.csproj",
+  "projectFilePath": "C:\\Users\\gmess\\projects\\DevInHouse\\DiH_Audaces_M2_BackEnd\\M2S04\\solutions\\solutions.csproj",
   "expectedPackageFiles": [
-    "/home/gmess/.nuget/packages/spectre.console/0.46.0/spectre.console.0.46.0.nupkg.sha512",
-    "/home/gmess/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+    "C:\\Users\\gmess\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\gmess\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
   ],
   "logs": []
 }
